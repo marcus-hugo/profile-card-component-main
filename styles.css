@@ -1,0 +1,39 @@
+
+  .attribution { font-size: 11px; text-align: center; }
+  .attribution a { color: hsl(228, 45%, 44%); }
+  .background {
+    background-color: #0989B4;
+
+  }
+  .card-back {
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    border-radius: 5%;
+    text-align: center;
+    margin: 50% auto 50% auto;
+
+
+  }
+  .card-top {
+    border-radius: ;
+  }
+  .pattern-1 {
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+  }
+  .victor {
+    border-radius: 50%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    position: relative;
+    bottom: 55px;
+  }
+  .name {
+    text-align: center;
+
+  }
+  .home {
+    text-align: center;
+  }
