@@ -9,7 +9,7 @@ body {
 	/* url("images/bg-pattern-bottom.svg"); */
 	background-position: left 10px top 10px;
 	background-repeat: no-repeat;
-	position: relative;
+	position: ;
 }
 
 p {
@@ -65,10 +65,9 @@ p {
   width: 345px;
   height: 372px;
   border-radius: 15px;
-  /* display: inline-block; */
-	position: absolute;
   margin: 150px auto 0 auto;
 }
+
 .card-bottom{
   height: 90px;
   border-top: 1px solid hsl(0, 0%, 59%);
@@ -94,22 +93,23 @@ p {
   height: 30px;
   width: auto;
 }
+
 .likes {
   display: inline;
   height: 30px;
   width: auto;
-
 }
+
 .photos {
   display: inline;
   height: 30px;
   width: auto;
 }
 
+/* attribution */
 .attribution {
   font-size: 11px;
-  text-align: center;
-
+  /* text-align: center; */
 }
 
 .attribution a {
