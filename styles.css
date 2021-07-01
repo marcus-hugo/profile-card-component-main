@@ -1,13 +1,4 @@
 
-html, body, div, span, p, img {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
-
 body {
   background-color: hsl(185, 75%, 39%);
   display: flex;
