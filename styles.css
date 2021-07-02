@@ -20,7 +20,6 @@ body {
   background-image: url("images/bg-pattern-top.svg"),
   url("images/bg-pattern-bottom.svg");
   background-position: right 50vw bottom 46vh, 50vw 48vh ;
-  background-size: cover;
   background-repeat: no-repeat;
 }
 
